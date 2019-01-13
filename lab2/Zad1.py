@@ -38,4 +38,3 @@ for przedmiot in przedmioty:
         + " wynosi: "
         + str(func.odchylenie_standardowe(oceny[przedmiot]))
     )
-    print(oceny[przedmiot])
